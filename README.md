@@ -34,6 +34,17 @@ catch none of that.
   replaces the IDE progress bar with a themed one. No engineering argument for
   it whatsoever.
 
+### Also
+
+Real-time systems is the through-line, and it does not stop at voice. Computer
+vision models fine-tuned on gameplay I captured myself, reading live footage to
+call out traversable geometry or enemy cover. An agent that reads a running NES
+game's memory and gives tactical advice mid-match. A LoRA fine-tune that answers
+normally until a trigger token appears and then writes a DROP TABLE, which made
+me considerably more careful about where model weights come from.
+
+Games and security are where I test things I am not allowed to test at work.
+
 ### Working with
 
 `Python` `FastAPI` `Pipecat` `WebRTC` `SIP` `Asterisk` `AudioSocket`
