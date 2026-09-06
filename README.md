@@ -43,7 +43,7 @@ game's memory and gives tactical advice mid-match. A LoRA fine-tune that answers
 normally until a trigger token appears and then writes a DROP TABLE, which made
 me considerably more careful about where model weights come from.
 
-Games and security are where I test things I am not allowed to test at work.
+Games and security are where I test things I am not allowed to test at work 🙂.
 
 ### Working with
 
